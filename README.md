@@ -28,15 +28,15 @@ Example:
 
 ```
 cd <your project>
-mkdir -p vendor/jacwright/RestServer
-cd vendor/jacwright/RestServer
-git clone https://github.com/jacwright/RestServer .
+mkdir -p vendor/joseporto/mysql-class
+cd vendor/joseporto/mysql-class
+git clone https://github.com/joseporto/mysql-class.git .
 composer install
 ```
 
-## By [Packagist](https://packagist.org/packages/jacwright/restserver)
+## By [Packagist](https://packagist.org/packages/joseporto/mysql-class)
 
 ```
 cd <your project>
-composer require 'jacwright/restserver:dev-master'
+composer require 'joseporto/mysql-class'
 ```
