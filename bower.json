@@ -1,0 +1,26 @@
+{
+  "name": "mysql-class",
+  "authors": [
+    "Jose Porto <jose.porto@easypaymentgateway.com>"
+  ],
+  "description": "A MySQL class, that implements prepared statements to increase efficiency and security.",
+  "main": "src/mysql-class.php",
+  "moduleType": [],
+  "keywords": [
+    "mysql",
+    "stmt",
+    "class",
+    "php",
+    "database",
+    "sql"
+  ],
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/joseporto/mysql-class",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
