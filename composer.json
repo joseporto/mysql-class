@@ -1,0 +1,12 @@
+{
+  "name": "JosePorto/mysql",
+  "description": "mysql class with statement support",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "José Porto",
+      "email": "joseporto@icloud.com"
+    }
+  ]
+}
